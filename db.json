@@ -1,15 +1,15 @@
 {	
 	"prodotti" : [
 	{
-		"nome": "prodotto1"
+		"nome": "prodotto1",
 		"descrizione": "Descrizione del prodotto 1"
 	},
 	{
-		"nome": "prodotto2"
+		"nome": "prodotto2",
 		"descrizione": "Descrizione del prodotto 2"
 	},
 	{
-		"nome": "prodotto3"
+		"nome": "prodotto3",
 		"descrizione": "Descrizione del prodotto 3"
 	}
 	]
