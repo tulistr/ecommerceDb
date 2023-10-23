@@ -1,17 +1,18 @@
 {	
-	"prodotti" : [
-	{
-		"nome": "Piastra per capelli",
-		"descrizione": "Piastra elettrica per capelli, adatta per boccoli, capelli lisci o mossi"
-	},
-	{
-		"nome": "Joystick ps4",
-		"descrizione": "Joystick compatibile per ps4, con cavo usb, funzionante su tutti i giochi"
-	},
+	"prodotti" : 
+	[
 		{
-		"nome": "Microfono a condensatore",
-		"descrizione": "Microfono a condensatore per pc con presa usb, adatto a podcast e gaming"
-	}
+			"nome": "Piastra per capelli",
+			"descrizione": "Piastra elettrica per capelli, adatta per boccoli, capelli lisci o mossi"
+		},
+		{
+			"nome": "Joystick ps4",
+			"descrizione": "Joystick compatibile per ps4, con cavo usb, funzionante su tutti i giochi"
+		},
+		{
+			"nome": "Microfono a condensatore",
+			"descrizione": "Microfono a condensatore per pc con presa usb, adatto a podcast e gaming"
+		}
 	]
 }
 
